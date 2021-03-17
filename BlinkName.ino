@@ -4,7 +4,7 @@
 
 
 int led1 = D7; // Instead of writing D7 over and over again, we'll write led1, representing the built-in LED.
-int led2 = D6; // Instead of writing D7 over and over again, we'll write led2, representing the additional red LED.
+int led2 = D6; // Instead of writing D6 over and over again, we'll write led2, representing the additional red LED.
 int dot = 500; // A dot is a 0.5 second blink.
 int dash = 1500; // A dash is a 1.5 second blink
 int end = 3500; // The end of a word is seperated by a 3.5 second blink.
